@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <!--<string-array name="Quiz_1_Questions_array">-->
+        <!--<item>Does 0! = 0?</item>-->
+        <!--<item>Does 2^3 = 8?</item>-->
+        <!--<item>Does 2+2 = 4?</item>-->
+    <!--</string-array>-->
+
+    <string-array name="Quiz_1_Questions_array">
+        <item>Who is the Democratic Candidate?</item>
+        <item>What is a color of a Flamingo?</item>
+        <item>What is 0! equal to?</item>
+        <!--<item>Does 2+2 = 4?</item>-->
+    </string-array>
+
+    <string-array name="Quiz_1_Answers_array">
+        <item>Hillary Clinton,1</item>
+        <item>The Donald,0</item>
+        <item>Blue,0</item>
+        <item>Pink,1</item>
+        <item>0,0</item>
+        <item>1,1</item>
+    </string-array>
+
+
+</resources>
